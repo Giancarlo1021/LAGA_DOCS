@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"COMP380.LAGA.Hotel_API"},{"l":"COMP380.LAGA.Hotel_API.connection"},{"l":"COMP380.LAGA.Hotel_API.controller"},{"l":"COMP380.LAGA.Hotel_API.model"},{"l":"COMP380.LAGA.Hotel_API.repository"}];updateSearchResults();
